@@ -3,6 +3,9 @@
 Created on Thu Jul  9 10:19:28 2020
 Adapted from: 
 @author: norman marlier
+
+
+Used for generating the grasp data 
 """
 import pybullet
 import pybullet_planning
