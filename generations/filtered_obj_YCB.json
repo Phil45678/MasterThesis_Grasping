@@ -1,0 +1,49 @@
+{"object": [
+    
+    {"collision_mesh": "dataset_object_YCB/003_cracker_box/vhacd.obj", "visual_mesh": "dataset_object_YCB/003_cracker_box/textured.obj", 
+        "id": "003_cracker_box", "scale": [1.0, 1.0, 1.0], "base_pos": [0.0, 0.0, 0.0], "base_ori": [0.0, 0.0, 0.0, 1.0], "mass": 0.411}, 
+            
+    {"collision_mesh": "dataset_object_YCB/004_sugar_box/vhacd.obj", "visual_mesh": "dataset_object_YCB/004_sugar_box/textured.obj", 
+        "id": "004_sugar_box", "scale": [1.0, 1.0, 1.0], "base_pos": [0.0, 0.0, 0.0], "base_ori": [0.0, 0.0, 0.0, 1.0], "mass": 0.514}, 
+            
+    {"collision_mesh": "dataset_object_YCB/006_mustard_bottle/vhacd.obj", "visual_mesh": "dataset_object_YCB/006_mustard_bottle/textured.obj", 
+        "id": "006_mustard_bottle", "scale": [1.0, 1.0, 1.0], "base_pos": [0.0, 0.0, 0.0], "base_ori": [0.0, 0.0, 0.0, 1.0], "mass": 0.603}, 
+            
+    {"collision_mesh": "dataset_object_YCB/010_potted_meat_can/vhacd.obj", "visual_mesh": "dataset_object_YCB/010_potted_meat_can/textured.obj", 
+        "id": "010_potted_meat_can", "scale": [1.0, 1.0, 1.0], "base_pos": [0.0, 0.0, 0.0], "base_ori": [0.0, 0.0, 0.0, 1.0], "mass": 0.37}, 
+            
+    {"collision_mesh": "dataset_object_YCB/011_banana/vhacd.obj", "visual_mesh": "dataset_object_YCB/011_banana/textured.obj", 
+        "id": "011_banana", "scale": [1.0, 1.0, 1.0], "base_pos": [0.0, 0.0, 0.0], "base_ori": [0.0, 0.0, 0.0, 1.0], "mass": 0.066}, 
+            
+    {"collision_mesh": "dataset_object_YCB/012_strawberry/vhacd.obj", "visual_mesh": "dataset_object_YCB/012_strawberry/textured.obj", 
+        "id": "012_strawberry", "scale": [1.0, 1.0, 1.0], "base_pos": [0.0, 0.0, 0.0], "base_ori": [0.0, 0.0, 0.0, 1.0], "mass": 0.018}, 
+            
+    {"collision_mesh": "dataset_object_YCB/013_apple/vhacd.obj", "visual_mesh": "dataset_object_YCB/013_apple/textured.obj", 
+        "id": "013_apple", "scale": [1.0, 1.0, 1.0], "base_pos": [0.0, 0.0, 0.0], "base_ori": [0.0, 0.0, 0.0, 1.0], "mass": 0.068}, 
+            
+    {"collision_mesh": "dataset_object_YCB/014_lemon/vhacd.obj", "visual_mesh": "dataset_object_YCB/014_lemon/textured.obj", 
+        "id": "014_lemon", "scale": [1.0, 1.0, 1.0], "base_pos": [0.0, 0.0, 0.0], "base_ori": [0.0, 0.0, 0.0, 1.0], "mass": 0.029}, 
+            
+    {"collision_mesh": "dataset_object_YCB/015_peach/vhacd.obj", "visual_mesh": "dataset_object_YCB/015_peach/textured.obj", 
+        "id": "015_peach", "scale": [1.0, 1.0, 1.0], "base_pos": [0.0, 0.0, 0.0], "base_ori": [0.0, 0.0, 0.0, 1.0], "mass": 0.033}, 
+            
+    {"collision_mesh": "dataset_object_YCB/018_plum/vhacd.obj", "visual_mesh": "dataset_object_YCB/018_plum/textured.obj", 
+        "id": "018_plum", "scale": [1.0, 1.0, 1.0], "base_pos": [0.0, 0.0, 0.0], "base_ori": [0.0, 0.0, 0.0, 1.0], "mass": 0.025}, 
+            
+    {"collision_mesh": "dataset_object_YCB/021_bleach_cleanser/vhacd.obj", "visual_mesh": "dataset_object_YCB/021_bleach_cleanser/textured.obj", 
+        "id": "021_bleach_cleanser", "scale": [1.0, 1.0, 1.0], "base_pos": [0.0, 0.0, 0.0], "base_ori": [0.0, 0.0, 0.0, 1.0], "mass": 1.131}, 
+            
+    {"collision_mesh": "dataset_object_YCB/024_bowl/vhacd.obj", "visual_mesh": "dataset_object_YCB/024_bowl/textured.obj", 
+        "id": "024_bowl", "scale": [1.0, 1.0, 1.0], "base_pos": [0.0, 0.0, 0.0], "base_ori": [0.0, 0.0, 0.0, 1.0], "mass": 0.147}, 
+            
+    {"collision_mesh": "dataset_object_YCB/025_mug/vhacd.obj", "visual_mesh": "dataset_object_YCB/025_mug/textured.obj", 
+        "id": "025_mug", "scale": [1.0, 1.0, 1.0], "base_pos": [0.0, 0.0, 0.0], "base_ori": [0.0, 0.0, 0.0, 1.0], "mass": 0.118}, 
+
+    {"collision_mesh": "dataset_object_YCB/shapenet_duvel_bottle/vhacd.obj", "visual_mesh": "dataset_object_YCB/shapenet_duvel_bottle/textured.obj", 
+        "id": "shapenet_duvel_bottle", "scale": [0.16, 0.16, 0.16], "base_pos": [0.0, 0.0, 0.0], "base_ori": [0.7071067811865476, 0.0, 0.0, 0.7071067811865476], "mass": 0.25}, 
+            
+    {"collision_mesh": "dataset_object_YCB/shapenet_liefman_bottle/vhacd.obj", "visual_mesh": "dataset_object_YCB/shapenet_liefman_bottle/textured.obj", 
+        "id": "shapenet_liefman_bottle", "scale": [0.16, 0.16, 0.16], "base_pos": [0.0, 0.0, 0.0], "base_ori": [0.7071067811865476, 0.0, 0.0, 0.7071067811865476], "mass": 0.25}, 
+            
+    {"collision_mesh": "dataset_object_YCB/shapenet_wood_bowl/vhacd.obj", "visual_mesh": "dataset_object_YCB/shapenet_wood_bowl/textured.obj", 
+        "id": "shapenet_wood_bowl", "scale": [0.15, 0.15, 0.15], "base_pos": [0.0, 0.0, 0.0], "base_ori": [0.7071067811865476, 0.0, 0.0, 0.7071067811865476], "mass": 0.12}]}

@@ -1,0 +1,3 @@
+{"object": [{"collision_mesh": "C:\\Users\\phili\\Documents\\GitHub\\DexterousManipulation\\generations\\test_objects\\big_box\\big_box_vhacd.obj", 
+    "visual_mesh": "C:\\Users\\phili\\Documents\\GitHub\\DexterousManipulation\\generations\\test_objects\\big_box\\big_box.obj", 
+    "id": "big_box.obj", "scale": [0.037, 0.037, 0.037], "base_pos": [0.0, 0.0, 0.0], "base_ori": [0.0, 0.0, 0.0, 1.0], "mass": 0.02}]}
