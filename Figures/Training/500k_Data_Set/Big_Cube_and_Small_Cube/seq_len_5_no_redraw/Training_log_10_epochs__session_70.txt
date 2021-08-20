@@ -1,0 +1,13 @@
+Epoch nb: 0
+Training acc over epoch: tf.Tensor(0.53375, shape=(), dtype=float64)
+Training loss over epoch: tf.Tensor(0.6968495556842664, shape=(), dtype=float64)
+Validation acc: tf.Tensor(0.445, shape=(), dtype=float64)
+Validation loss: tf.Tensor(0.704839816664907, shape=(), dtype=float64)
+Time taken: 172.79016995429993
+Epoch nb: 1
+Training acc over epoch: tf.Tensor(0.5225, shape=(), dtype=float64)
+Training loss over epoch: tf.Tensor(0.6920479937367326, shape=(), dtype=float64)
+Validation acc: tf.Tensor(0.445, shape=(), dtype=float64)
+Validation loss: tf.Tensor(0.7042194064548427, shape=(), dtype=float64)
+Time taken: 166.68291759490967
+Epoch nb: 2
